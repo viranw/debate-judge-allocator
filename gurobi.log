@@ -1,0 +1,17 @@
+
+Gurobi 7.5.2 (mac64, Python) logging started Mon Feb  5 11:28:15 2018
+
+Academic license - for non-commercial use only
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.02s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.04 seconds
+Optimal objective  0.000000000e+00
